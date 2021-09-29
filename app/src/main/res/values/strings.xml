@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ConvertorJpgToPng</string>
+    <string name="select_file">Выберите файл</string>
+    <string name="calcel">Отменить конвертацию</string>
+    <string name="canceled">Конвертация отменена</string>
+    <string name="select_picture">Выберите изображение</string>
+    <string name="need_permission">Для записи файла необходимо дать разрешение</string>
+    <string name="ready">Готово</string>
+    <string name="error">Ошибка конвертации</string>
 </resources>
